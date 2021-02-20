@@ -1,9 +1,7 @@
 # Scratch
-Jest to repozytorium do bezpłatnego użytku dla każdego.
-Będzie służyć.
-Jak otworzyć plik:
-
-1. Otwierasz plik 
-2.Klikasz View raw 
-3. Pobierasz 
-4. Otwierasz na https://scratch.mit.edu albo w aplikacji i korzystasz
+This a respository to free use for everyone
+How the open file
+1 . Open file
+2. Click Vier raw
+3. Dowland file
+4.Open on https://scrathc.mit.edu or in program and use 
